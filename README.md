@@ -56,6 +56,5 @@ Online (on Weekends only)
 ## Prerequisites ::
 Basic Knowledge of Python Programming, Linear Algebra and Physics
 
--------------------------
 
 ## Contact Email Id: qctraining@cdac.in
