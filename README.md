@@ -4,15 +4,17 @@
 Organized by  
 [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of Advanced Computing](https://www.cdac.in/) With the support of Ministry of Electronics and Information Technology (MeitY), Government of India.
 
-## Course Date: 
+## Course Date : 
 26 Apr 2025 to 18 May 2025
-## Mode: 
+
+## Mode : 
 Online (on Weekends only)
 
-## Course Duration:
+## Course Duration :
 4 WEEKS (CLASSES ON SATURDAY AND SUNDAY EVERY WEEK IN ONLINE MODE)
 
-## Course Content::
+## Course Content ::
+
 #### Week 1 :: Introduction & Basic operations:
 • Intro to qubits, Single qubit states, vector spaces and bases. 
 
@@ -56,5 +58,6 @@ Online (on Weekends only)
 ## Prerequisites ::
 Basic Knowledge of Python Programming, Linear Algebra and Physics
 
+---------------------------
 
 ## Contact Email Id: qctraining@cdac.in
