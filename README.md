@@ -4,7 +4,10 @@
 Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of Advanced Computing](https://www.cdac.in/) With the support of Ministry of Electronics and Information Technology (MeitY), Government of India.
 
 ## Course Date : 
-26 Apr 2025 to 18 May 2025
+03 May 2025 to 25 May 2025
+
+## Course Timings : 
+10:00 AM IST to 01:00 PM IST
 
 ## Mode : 
 Online (on Weekends only)
