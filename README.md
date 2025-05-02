@@ -43,7 +43,8 @@ Online (on Weekends only)
 4 WEEKS (CLASSES ON SATURDAY AND SUNDAY EVERY WEEK IN ONLINE MODE)
 
 ## Course Content ::
-<details>
+<Course-Content >
+  
 #### Week 1 :: Introduction & Basic operations:
 • Intro to qubits, Single qubit states, vector spaces and bases. 
 
@@ -82,7 +83,7 @@ Online (on Weekends only)
 
 • Quantum Machine Learning
 
-</details>
+</Course-Conten>
 
 ---------------------------
 
