@@ -5,7 +5,7 @@ Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of
 
 ## Joining Links:
 
-Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/rg42m57vtdlja7e5jtfbq5ce/) .
+####Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/rg42m57vtdlja7e5jtfbq5ce/) .
 
 ### *Week One :: Day 1 :: 3rd May 2025* -
 #### 
