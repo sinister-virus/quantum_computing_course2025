@@ -7,7 +7,7 @@ Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of
 
 ### Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/rg42m57vtdlja7e5jtfbq5ce/) .
 
-### *Week One :: Day 1 :: 3rd May 2025* -
+### *Week One :: Day 1 :: 3rd May 2025* 
 #### 
 
 | Webinar Topic   | Inauguration Ceremony followed by Technical sessions. Week 1-Day-1 :: 3 May :: One Month Course on Quantum Computing By C-DAC and IIT-Roorkee|
@@ -19,7 +19,7 @@ Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of
 |YouTube Live Stream |https://www.youtube.com/live/GLAE1HaoelA  |
 
 
-### *Week One :: Day 2 :: 4th May 2025* -
+### *Week One :: Day 2 :: 4th May 2025* 
 
 | Webinar Topic   | Technical sessions Week-1 Day-2 :: 4th May 2025:: One Month Quantum Computing Course by C-DAC & IITR |
 | -------------: | :------------- |
