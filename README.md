@@ -3,10 +3,11 @@
 
 Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of Advanced Computing](https://www.cdac.in/) With the support of Ministry of Electronics and Information Technology (MeitY), Government of India.
 
+## Course FAQ [Link](http://bit.ly/4lZrLqA)
 ## Joining Links:
 
 ### Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/rg42m57vtdlja7e5jtfbq5ce/) .
-### Access to Quniverse platform https://qniverse.in/ can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/)
+### Access to Quniverse platform https://qniverse.in/ can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/). It might take 1-2 working days to enable your account.
 ### Access to QSim (indigenous simulator) https://qctoolkit.in/qsim-get-access/  can be achieved by sending request email on qcworkbench@cdac.in
 
 ### *Week One :: Day 1 :: 3rd May 2025* 
