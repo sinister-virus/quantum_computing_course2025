@@ -16,7 +16,7 @@ Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of
 | Webinar Topic   | Inauguration Ceremony followed by Technical sessions. Week 1-Day-1 :: 3 May :: One Month Course on Quantum Computing By C-DAC and IIT-Roorkee|
 | -------------: | :------------- |
 | Date and time: | Saturday, 3rd May 2025, IST 10:00 AM  |
-|YouTube Link  |https://www.youtube.com/live/GLAE1HaoelA  |
+|Recorded YouTube Link  |https://www.youtube.com/live/GLAE1HaoelA  |
 
 
 ### *Week One :: Day 2 :: 4th May 2025* 
@@ -24,10 +24,7 @@ Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of
 | Webinar Topic   | Technical sessions Week-1 Day-2 :: 4th May 2025:: One Month Quantum Computing Course by C-DAC & IITR |
 | -------------: | :------------- |
 | Date and time: | Sunday, May 4, 2025 , IST 10:00 AM |
-|Join link: | https://quantumacc.webex.com/quantumacc/j.php?MTID=mc25a9998e81ec7b5db9d4ef82772bb33 |
-|Webinar number:| 2517 669 8418 |
-|Webinar password:| Qccourse_2025 |
-|YouTube Live Stream |https://www.youtube.com/live/tNcD6hJmQNA    |
+| Recorded YouTube Link  |https://www.youtube.com/live/tNcD6hJmQNA    |
 
 __________________________________________
 ## Course Date : 
