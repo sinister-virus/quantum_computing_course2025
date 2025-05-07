@@ -15,7 +15,7 @@ The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is schedu
 ## Joining Links:
 
 ### Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/rg42m57vtdlja7e5jtfbq5ce/) . This is the only official discussion forum platform
-### Access to [Qniverse platform](https://qniverse.in/) can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/). It might take 1-2 working days to enable your account.
+### Access to [Qniverse platform](https://qniverse.in/) can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/). It might take 3-4 working days to enable your account.
 ### Access to [QSim indigenous simulator](https://qctoolkit.in/qsim-get-access/)  can be achieved by sending request email on qcworkbench@cdac.in
 
 ### *Week One :: Day 1 :: 3rd May 2025* 
