@@ -6,7 +6,7 @@ Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of
 ------------------------------------------------------------
 ### Quiz:
 
-The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is scheduled on **Friday 09-May-2025** between **03:00 PM** to **04:00 PM**. Please note that only **registered participants** will be considered for quiz evaluation.
+The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is scheduled on **Friday 09-May-2025** between **03:00 PM** to **04:00 PM**. Please note that only **registered participants** will be considered for evaluation.Please use gmail ID that was used for at the time of registration. 
 
 ------------------------------------------------------------
 
