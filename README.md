@@ -17,7 +17,7 @@ The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is schedu
 ### Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/rg42m57vtdlja7e5jtfbq5ce/) . This is the only official discussion forum platform
 ### Access to [Qniverse platform](https://qniverse.in/) can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/). It might take 3-4 working days to enable your account.
 ### Access to [QSim indigenous simulator](https://qctoolkit.in/qsim-get-access/)  can be achieved by sending request email on qcworkbench@cdac.in
-
+-----------------------------------------------------
 ### *Week Two :: Day 1 :: 10th May 2025* 
  
 
@@ -26,7 +26,7 @@ The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is schedu
 | Date and time: | Saturday, May 10, 2025, IST 10:00 AM  |
 | [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m1ce90f9d1048eb83db647bebec4ae9f9)| [YouTube Live Link](https://youtube.com/live/MCOyY4O7Z0c )
 | Webinar number: 2510 017 2083 | webex Password :  qccourse@12345 |
-
+-----------------------------------------------------------------------------
 ### *Week One :: Day 1 :: 3rd May 2025* 
  
 
