@@ -4,7 +4,7 @@
 Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of Advanced Computing](https://www.cdac.in/) With the support of Ministry of Electronics and Information Technology (MeitY), Government of India.
 
 ------------------------------------------------------------
-### Quiz:
+### Quiz 1:
 
 The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is scheduled on **Friday 09-May-2025** between **03:00 PM** to **04:00 PM**. Please note that only **registered participants** will be considered for evaluation. While attempting please use gmail ID that was used for registration. 
 
@@ -17,7 +17,7 @@ The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is schedu
 ### Access to [Qniverse platform](https://qniverse.in/) can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/). It might take 3-4 working days to enable your account.
 ### Access to [QSim indigenous simulator](https://qctoolkit.in/qsim-get-access/)  can be achieved by sending request email on qcworkbench@cdac.in
 -----------------------------------------------------
-## *Week Two :: Day 1 :: 10th May 2025* 
+## *Week Two :: Day 1 :: 10th May 2025 :: Saturday* 
 
 | Webinar Topic   | Week-2 Day-1 One Month Course of Quantum Computing|
 | -------------: | :------------- |
@@ -25,7 +25,7 @@ The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is schedu
 | [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m1ce90f9d1048eb83db647bebec4ae9f9)| [YouTube Live Link](https://youtube.com/live/MCOyY4O7Z0c )
 | Webinar number: 2510 017 2083 | webex Password :  qccourse@12345 |
 
-## *Week Two :: Day 2 :: 12th May 2025 :: Sunday*
+## *Week Two :: Day 2 :: 11th May 2025 :: Sunday*
 
 | Webinar Topic   | Week-2 Day-2 One Month Course of Quantum Computing|
 | -------------: | :------------- |
