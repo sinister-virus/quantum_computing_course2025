@@ -4,19 +4,20 @@
 Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of Advanced Computing](https://www.cdac.in/) With the support of Ministry of Electronics and Information Technology (MeitY), Government of India.
 
 ------------------------------------------------------------
-## Quiz 1:
+# Quiz 1:
 
 The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is scheduled on **Friday 09-May-2025** between **03:00 PM** to **04:00 PM**. Please note that only **registered participants** will be considered for evaluation. While attempting please use gmail ID that was used for registration. 
 
 ------------------------------------------------------------
 ## Course FAQ [Link](http://bit.ly/4lZrLqA)
 --------------------------------------------------------------
-## Joining Links:
+# Joining Links:
 
 ### Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/rg42m57vtdlja7e5jtfbq5ce/) . This is the only official discussion forum platform
 ### Access to [Qniverse platform](https://qniverse.in/) can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/). It might take 3-4 working days to enable your account.
 ### Access to [QSim indigenous simulator](https://qctoolkit.in/qsim-get-access/)  can be achieved by sending request email on qcworkbench@cdac.in
 -----------------------------------------------------
+#  For UPCOMING sessiom --
 ## *Week Two :: Day 1 :: 10th May 2025 :: Saturday* 
 
 | Webinar Topic   | Week-2 Day-1 One Month Course of Quantum Computing|
