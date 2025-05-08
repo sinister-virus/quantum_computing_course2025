@@ -4,7 +4,7 @@
 Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of Advanced Computing](https://www.cdac.in/) With the support of Ministry of Electronics and Information Technology (MeitY), Government of India.
 
 ------------------------------------------------------------
-### Quiz 1:
+##### Quiz 1:
 
 The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is scheduled on **Friday 09-May-2025** between **03:00 PM** to **04:00 PM**. Please note that only **registered participants** will be considered for evaluation. While attempting please use gmail ID that was used for registration. 
 
