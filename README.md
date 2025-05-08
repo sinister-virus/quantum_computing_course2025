@@ -22,7 +22,7 @@ The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is schedu
 
 | Webinar Topic   | Week-2 Day-1 One Month Course of Quantum Computing|
 | -------------: | :------------- |
-| Date and time: | Saturday, May 10, 2025, IST 10:00 AM  |
+| Date and time: | Saturday, May 10, 2025, IST 10:00 AM - IST 13:00   |
 | [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m1ce90f9d1048eb83db647bebec4ae9f9)| [YouTube Live Link](https://youtube.com/live/MCOyY4O7Z0c )
 | Webinar number: 2510 017 2083 | webex Password :  qccourse@12345 |
 
@@ -39,7 +39,7 @@ The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is schedu
 
 | Webinar Topic   | Inauguration Ceremony followed by Technical sessions. Week 1-Day-1 :: 3 May :: One Month Course on Quantum Computing By C-DAC and IIT-Roorkee|
 | -------------: | :------------- |
-| Date and time: | Saturday, 3rd May 2025, IST 10:00 AM  |
+| Date and time: | Saturday, 3rd May 2025, IST 10:00 AM - IST 13:00 |
 |Recorded YouTube Link  |https://www.youtube.com/live/GLAE1HaoelA  |
 
 
