@@ -17,7 +17,7 @@ The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) for this course is schedu
 ### Access to [Qniverse platform](https://qniverse.in/) can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/). It might take 3-4 working days to enable your account.
 ### Access to [QSim indigenous simulator](https://qctoolkit.in/qsim-get-access/)  can be achieved by sending request email on qcworkbench@cdac.in
 -----------------------------------------------------
-#  For UPCOMING session --
+# UPCOMING Session --
 ## *Week Two :: Day 1 :: 10th May 2025 :: Saturday* 
 
 | Webinar Topic   | Week-2 Day-1 One Month Course of Quantum Computing|
