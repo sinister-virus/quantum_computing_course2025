@@ -6,7 +6,7 @@ Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of
 ------------------------------------------------------------
 # Quiz 1:
 
-The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) is reopen for those who were not able to attempt previously and scheduled on    **Sunday 11-May-2025** between **IST 08:00 PM** to **IST 09:00 PM**. Please note that only **registered participants** will be considered for evaluation. While attempting please use gmail ID that was used for registration. 
+The  first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) will be  reopend for those who were not able to attempt previously and scheduled is  on    **Sunday 11-May-2025** between **IST 08:00 PM** to **IST 09:00 PM**. Please note that only **registered participants** will be considered for evaluation. While attempting please use gmail ID that was used for registration. 
 
 ------------------------------------------------------------
 ## Course FAQ [Link](http://bit.ly/4lZrLqA)
