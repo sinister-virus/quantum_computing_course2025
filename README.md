@@ -4,8 +4,10 @@
 Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of Advanced Computing](https://www.cdac.in/) With the support of Ministry of Electronics and Information Technology (MeitY), Government of India.
 
 ------------------------------------------------------------
-# Quiz 1:
-The first [Quiz](https://forms.gle/Xo5T9Ysx3YhEWgGB9) will be reopened for those who were unable to attempt it earlier. It is scheduled for **Sunday, 11 May 2025, between 08:00 PM and 09:00 PM IST**.
+
+# Quiz 1: Answer key is updated in this Repository in Quiz folder.
+# Quiz 2:
+The first [Quiz 2](https://forms.gle/cGN7iek6hG4ynSaf7) will be open for only REGISTERED participants. It is scheduled for **Sunday, 18 May 2025, between 08:00 PM and 09:00 PM IST**.
 Please note that only **registered participants** will be considered for evaluation. While attempting the quiz, make sure to use the Gmail ID you used during registration.
 
 ------------------------------------------------------------
