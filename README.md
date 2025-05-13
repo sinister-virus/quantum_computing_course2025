@@ -18,25 +18,44 @@ Please note that only **registered participants** will be considered for evaluat
 ### Access to [QSim indigenous simulator](https://qctoolkit.in/qsim-get-access/)  can be achieved by sending request email on qcworkbench@cdac.in
 -----------------------------------------------------
 # UPCOMING Session --
+## *Week Three :: Day 1 :: 17th May 2025 :: Saturday*
+
+| Webinar Topic   | Week-3 Day-1 One Month Course of Quantum Computing|
+| -------------: | :------------- |
+| Date and time: | Saturday, 17 May, 2025, IST 10:00 AM  |
+| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m09ddee67068dae2f022adc71ce5f3f1a)| [YouTube Live Link](https://youtube.com/live/Nt94wy3T_5s)
+| Webinar number:  2519 148 2412 | webex Password :  qccourse@123 |
+------------------------------------------------------------------------------------------------
+
+## *Week Three :: Day 2 :: 18th May 2025 :: Sunday*
+
+| Webinar Topic   | Week-3 Day-2 One Month Course of Quantum Computing|
+| -------------: | :------------- |
+| Date and time: | Sunday, May 18, 2025, IST 10:00 AM  |
+| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=ma55030ddce980700aed3be274ae1af77)| [YouTube Live Link](https://youtube.com/live/RW9ef4P-QRI)
+| Webinar number:  2510 590 4798 | webex Password :  qccourse@123|
+------------------------------------------------------------------------------------------------
+
+
 ## *Week Two :: Day 1 :: 10th May 2025 :: Saturday* 
 
 | Webinar Topic   | Week-2 Day-1 One Month Course of Quantum Computing|
 | -------------: | :------------- |
 | Date and time: | Saturday, May 10, 2025, IST 10:00 AM - IST 13:00   |
-| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m1ce90f9d1048eb83db647bebec4ae9f9)| [YouTube Live Link](https://youtube.com/live/MCOyY4O7Z0c )
-| Webinar number: 2510 017 2083 | webex Password :  qccourse@12345 |
+| Recorded YouTube Link  |https://youtube.com/live/MCOyY4O7Z0c |
+
 
 ## *Week Two :: Day 2 :: 11th May 2025 :: Sunday*
 
 | Webinar Topic   | Week-2 Day-2 One Month Course of Quantum Computing|
 | -------------: | :------------- |
 | Date and time: | Sunday, May 11, 2025, IST 10:00 AM  |
-| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=ma55030ddce980700aed3be274ae1af77)| [YouTube Live Link](https://youtube.com/live/kG5Lq5khWn4)
-| Webinar number:  2517 320 7656 | webex Password :  qctraining@12345 |
+| Recorded YouTube Link  |https://youtube.com/live/kG5Lq5khWn4 |
 ------------------------------------------------------------------------------------------------
+
+
 ### *Week One :: Day 1 :: 3rd May 2025* 
  
-
 | Webinar Topic   | Inauguration Ceremony followed by Technical sessions. Week 1-Day-1 :: 3 May :: One Month Course on Quantum Computing By C-DAC and IIT-Roorkee|
 | -------------: | :------------- |
 | Date and time: | Saturday, 3rd May 2025, IST 10:00 AM - IST 13:00 |
