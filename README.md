@@ -7,7 +7,7 @@ Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of
 
 # Quiz 1: Answer key is updated in this Repository in Quiz folder.
 # Quiz 2:
-The first [Quiz 2](https://forms.gle/cGN7iek6hG4ynSaf7) will be open for only REGISTERED participants. It is scheduled for **Sunday, 18 May 2025, between 08:00 PM and 09:00 PM IST**.
+The [Quiz 2](https://forms.gle/cGN7iek6hG4ynSaf7) will be open for only REGISTERED participants. It is scheduled for **Sunday, 18 May 2025, between 08:00 PM and 09:00 PM IST**.
 Please note that only **registered participants** will be considered for evaluation. While attempting the quiz, make sure to use the Gmail ID you used during registration.
 
 ------------------------------------------------------------
