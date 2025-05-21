@@ -101,9 +101,11 @@ Please note that only **registered participants** will be considered for evaluat
 |Recorded YouTube Link  |https://www.youtube.com/live/GLAE1HaoelA  |
 
 </Details>
-
+<Details>
+<summary>Course Datails </summary>
 __________________________________________
-## Course Date : 
+
+ ## Course Date : 
 03 May 2025 to 25 May 2025
 
 ## Course Timings : 
@@ -115,11 +117,13 @@ Online (on Weekends only)
 ## Course Duration :
 4 WEEKS (CLASSES ON SATURDAY AND SUNDAY EVERY WEEK IN ONLINE MODE)
 
+</Details>
+
 ## Course Content ::
 
 <Details>
   
-#### Week 1 :: Introduction & Basic operations:
+### Week 1 :: Introduction & Basic operations:
 • Intro to qubits, Single qubit states, vector spaces and bases. 
 
 • Basics instructions on using Quantum Simulators with examples.
@@ -128,7 +132,7 @@ Online (on Weekends only)
 
 • Quantum Simulators examples on Teleportation and Superdense coding.
 
-#### Week 2 :: Multi qubit transformations & Boolean Functions:
+### Week 2 :: Multi qubit transformations & Boolean Functions:
 
 • Multi qubit computational basis, Multi qubit gates/measurements, Universal quantum gates and approximation of quantum gates.
 
@@ -139,7 +143,7 @@ Online (on Weekends only)
 • Quantum Simulators examples for topics covered.
 
 
-#### Week 3 :: Basic quantum algorithms:
+### Week 3 :: Basic quantum algorithms:
 • Deutsch and Deutsch algorithm (with a few comments on the quantum advantage)
 
 • Quantum Simulators demonstration of the algorithm.
@@ -149,7 +153,7 @@ Online (on Weekends only)
 • Quantum Simulators demonstration of the algorithm.
 
 
-#### Week 4 :: Advanced quantum algorithms & QML:
+### Week 4 :: Advanced quantum algorithms & QML:
 
 • Grover’s search algorithm, Harrow–Hassidim–Lloyd (HHL) algorithm, VQE algorithm etc.
 
