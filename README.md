@@ -101,8 +101,10 @@ Please note that only **registered participants** will be considered for evaluat
 |Recorded YouTube Link  |https://www.youtube.com/live/GLAE1HaoelA  |
 
 </Details>
+
+### *Course Datails*
 <Details>
-<summary>Course Datails </summary>
+
 __________________________________________
 
  ## Course Date : 
