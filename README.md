@@ -27,8 +27,8 @@ Please note that only **registered participants** will be considered for evaluat
 | Webinar Topic   | Technical sessions: Week-4 Day-1 One Month Course of Quantum Computing|
 | -------------: | :------------- |
 | Date and time: | Saturday, 24 May, 2025, IST 10:00 AM  |
-| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m6cd1acb889f4a1dcba29ea37e653705c)| [YouTube Live Link]()
-| **Webinar Number** :  2517 432 9650 | **Webex Password** :  qccourse@123 |
+| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m6cd1acb889f4a1dcba29ea37e653705c)| [YouTube Live Link](https://youtube.com/live/6GQySESfbFY)
+| **Webinar Number** :  25174329650 | **Webex Password** :  qccourse@123 |
 
 ------------------------------------------------------------------------------------------------
 
@@ -37,8 +37,8 @@ Please note that only **registered participants** will be considered for evaluat
 | Webinar Topic   | Technical sessions: Week-4 Day-2 One Month Course of Quantum Computing|
 | -------------: | :------------- |
 | Date and time: | Sunday, May 25, 2025, IST 10:00 AM  |
-| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m7bd3b4291543f5da9bd18eeb82785d7c )| [YouTube Live Link]()
-| **Webinar Number** :  2517 353 8515 | **Webex Password** :  qccourse@123|
+| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m7bd3b4291543f5da9bd18eeb82785d7c )| [YouTube Live Link](https://youtube.com/live/f4J0hw30SuE)
+| **Webinar Number** :  25173538515 | **Webex Password** :  qccourse@123|
 
 ------------------------------------------------------------------------------------------------
 # Recorded Session --
