@@ -102,7 +102,8 @@ Please note that only **registered participants** will be considered for evaluat
 
 </Details>
 
-### *Course Datails*
+### *Course Details*
+
 <Details>
 
 __________________________________________
