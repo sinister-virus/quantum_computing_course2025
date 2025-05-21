@@ -17,7 +17,7 @@ Please note that only **registered participants** will be considered for evaluat
 --------------------------------------------------------------
 # Joining Links:
 
-### Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/rg42m57vtdlja7e5jtfbq5ce/) . This is the only official discussion forum platform
+### Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/kknhjrqfdsrephnvyeoew4jt/) . This is the only official discussion forum platform.
 ### Access to [Qniverse platform](https://qniverse.in/) can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/). It might take 3-4 working days to enable your account.
 ### Access to [QSim indigenous simulator](https://qctoolkit.in/qsim-get-access/)  can be achieved by sending request email on qcworkbench@cdac.in
 -----------------------------------------------------
