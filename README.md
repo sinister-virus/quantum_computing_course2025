@@ -102,7 +102,7 @@ Please note that only **registered participants** will be considered for evaluat
 
 </Details>
 
-### *Course Details*
+## **Course Details**
 
 <Details>
 
