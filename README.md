@@ -44,9 +44,11 @@ Please note that only **registered participants** will be considered for evaluat
 # Past Session -- 
 
 <Details>
+ 
  <summary>
 
 ### PAST Sessions [ PlayList Link](https://www.youtube.com/playlist?list=PLt_nrfusQeEc-5tBqiQkmt70Aeu_zNiNT) 
+
 </summary>
 
 ### *Week Three :: Day 2 :: 18th May 2025 :: Sunday*
