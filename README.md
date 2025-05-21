@@ -41,6 +41,8 @@ Please note that only **registered participants** will be considered for evaluat
 | **Webinar Number** :  2517 353 8515 | **Webex Password** :  qccourse@123|
 
 ------------------------------------------------------------------------------------------------
+# Recorded Session --
+
 ### *Week Three :: Day 2 :: 18th May 2025 :: Sunday*
 
 | Webinar Topic   | Technical sessions: Week-3 Day-2 One Month Course of Quantum Computing|
