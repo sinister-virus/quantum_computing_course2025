@@ -5,9 +5,11 @@ Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of
 
 ------------------------------------------------------------
 
-# Quiz 1: Answer key is updated in this Repository in Quiz folder.
-# Quiz 2:
-The [Quiz 2](https://forms.gle/cGN7iek6hG4ynSaf7) will be open for only REGISTERED participants. It is scheduled for **Sunday, 18 May 2025, between 08:00 PM and 09:00 PM IST**.
+## Quiz 1 & 2: 
+Answer key is updated in this Repository in Quiz folder in this Repository.
+# Quiz 3:
+The [Quiz 3](https://forms.gle/TnY5353udq24rB9M6) will be open for only REGISTERED participants. It is scheduled for **Sunday, 25 May 2025, between 08:00 PM and 09:00 PM IST**.
+
 Please note that only **registered participants** will be considered for evaluation. While attempting the quiz, make sure to use the Gmail ID you used during registration.
 
 ------------------------------------------------------------
@@ -20,56 +22,75 @@ Please note that only **registered participants** will be considered for evaluat
 ### Access to [QSim indigenous simulator](https://qctoolkit.in/qsim-get-access/)  can be achieved by sending request email on qcworkbench@cdac.in
 -----------------------------------------------------
 # UPCOMING Session --
-## *Week Three :: Day 1 :: 17th May 2025 :: Saturday*
+## *Week Four :: Day 1 :: 24th May 2025 :: Saturday*
 
-| Webinar Topic   | Week-3 Day-1 One Month Course of Quantum Computing|
+| Webinar Topic   | Technical sessions: Week-4 Day-1 One Month Course of Quantum Computing|
 | -------------: | :------------- |
-| Date and time: | Saturday, 17 May, 2025, IST 10:00 AM  |
-| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m09ddee67068dae2f022adc71ce5f3f1a)| [YouTube Live Link](https://youtube.com/live/Nt94wy3T_5s)
-| Webinar number:  2519 148 2412 | webex Password :  qccourse@123 |
+| Date and time: | Saturday, 24 May, 2025, IST 10:00 AM  |
+| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m6cd1acb889f4a1dcba29ea37e653705c)| [YouTube Live Link]()
+| **Webinar Number** :  2517 432 9650 | **Webex Password** :  qccourse@123 |
+
 ------------------------------------------------------------------------------------------------
 
-## *Week Three :: Day 2 :: 18th May 2025 :: Sunday*
+## *Week Four :: Day 2 :: 25th May 2025 :: Sunday*
 
-| Webinar Topic   | Week-3 Day-2 One Month Course of Quantum Computing|
+| Webinar Topic   | Technical sessions: Week-4 Day-2 One Month Course of Quantum Computing|
 | -------------: | :------------- |
-| Date and time: | Sunday, May 18, 2025, IST 10:00 AM  |
-| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=ma55030ddce980700aed3be274ae1af77)| [YouTube Live Link](https://youtube.com/live/RW9ef4P-QRI)
-| Webinar number:  2510 590 4798 | webex Password :  qccourse@123|
+| Date and time: | Sunday, May 25, 2025, IST 10:00 AM  |
+| [Webex Link](https://quantumacc.webex.com/quantumacc/j.php?MTID=m7bd3b4291543f5da9bd18eeb82785d7c )| [YouTube Live Link]()
+| **Webinar Number** :  2517 353 8515 | **Webex Password** :  qccourse@123|
+
 ------------------------------------------------------------------------------------------------
+### *Week Three :: Day 2 :: 18th May 2025 :: Sunday*
+
+| Webinar Topic   | Technical sessions: Week-3 Day-2 One Month Course of Quantum Computing|
+| -------------: | :------------- |
+| Date and time: | Saturday, May 10, 2025, IST 10:00 AM - IST 13:00   |
+| Recorded YouTube Link  |https://youtube.com/live/RW9ef4P-QRI|
+
+### *Week Three :: Day 1 :: 17th May 2025 :: Saturday*
+
+| Webinar Topic   | Technical sessions: Week-3 Day-1 One Month Course of Quantum Computing|
+| -------------: | :------------- |
+| Date and time: | Saturday, May 10, 2025, IST 10:00 AM - IST 13:00   |
+| Recorded YouTube Link  |https://youtube.com/live/Nt94wy3T_5s |
 
 
-## *Week Two :: Day 1 :: 10th May 2025 :: Saturday* 
 
-| Webinar Topic   | Week-2 Day-1 One Month Course of Quantum Computing|
+
+### *Week Two :: Day 2 :: 11th May 2025 :: Sunday*
+
+| Webinar Topic   | Technical sessions: Week-2 Day-2 One Month Course of Quantum Computing|
+| -------------: | :------------- |
+| Date and time: | Sunday, May 11, 2025, IST 10:00 AM  |
+| Recorded YouTube Link  |https://youtube.com/live/kG5Lq5khWn4 |
+
+### *Week Two :: Day 1 :: 10th May 2025 :: Saturday* 
+
+| Webinar Topic   | Technical sessions: Week-2 Day-1 One Month Course of Quantum Computing|
 | -------------: | :------------- |
 | Date and time: | Saturday, May 10, 2025, IST 10:00 AM - IST 13:00   |
 | Recorded YouTube Link  |https://youtube.com/live/MCOyY4O7Z0c |
 
 
-## *Week Two :: Day 2 :: 11th May 2025 :: Sunday*
 
-| Webinar Topic   | Week-2 Day-2 One Month Course of Quantum Computing|
-| -------------: | :------------- |
-| Date and time: | Sunday, May 11, 2025, IST 10:00 AM  |
-| Recorded YouTube Link  |https://youtube.com/live/kG5Lq5khWn4 |
 ------------------------------------------------------------------------------------------------
+### *Week One :: Day 2 :: 4th May 2025* 
+
+| Webinar Topic   | Technical sessions: Week-1 Day-2 :: 4th May 2025:: One Month Quantum Computing Course |
+| -------------: | :------------- |
+| Date and time: | Sunday, May 4, 2025 , IST 10:00 AM |
+| Recorded YouTube Link  |https://www.youtube.com/live/tNcD6hJmQNA    |
 
 
 ### *Week One :: Day 1 :: 3rd May 2025* 
  
-| Webinar Topic   | Inauguration Ceremony followed by Technical sessions. Week 1-Day-1 :: 3 May :: One Month Course on Quantum Computing By C-DAC and IIT-Roorkee|
+| Webinar Topic   | Inauguration Ceremony followed by Technical sessions. Week 1-Day-1 :: 3 May :: One Month Course on Quantum Computing|
 | -------------: | :------------- |
 | Date and time: | Saturday, 3rd May 2025, IST 10:00 AM - IST 13:00 |
 |Recorded YouTube Link  |https://www.youtube.com/live/GLAE1HaoelA  |
 
 
-### *Week One :: Day 2 :: 4th May 2025* 
-
-| Webinar Topic   | Technical sessions Week-1 Day-2 :: 4th May 2025:: One Month Quantum Computing Course by C-DAC & IITR |
-| -------------: | :------------- |
-| Date and time: | Sunday, May 4, 2025 , IST 10:00 AM |
-| Recorded YouTube Link  |https://www.youtube.com/live/tNcD6hJmQNA    |
 
 __________________________________________
 ## Course Date : 
