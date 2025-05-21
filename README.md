@@ -41,7 +41,7 @@ Please note that only **registered participants** will be considered for evaluat
 | **Webinar Number** :  25173538515 | **Webex Password** :  qccourse@123|
 
 ------------------------------------------------------------------------------------------------
-# Recorded Session --
+# Recorded Session [Playlist](https://www.youtube.com/playlist?list=PLt_nrfusQeEc-5tBqiQkmt70Aeu_zNiNT) --
 
 ### *Week Three :: Day 2 :: 18th May 2025 :: Sunday*
 
