@@ -91,8 +91,7 @@ Please note that only **registered participants** will be considered for evaluat
 |Recorded YouTube Link  |https://www.youtube.com/live/GLAE1HaoelA  |
 
 </Details>
-__________________________________________
-
+-----------------------------------------------
 # May 2023 One Month course on Quantum Computing -- [GitHub Repository](https://github.com/gitkarma/quantum_computing_course2023) 
 ## **Course Details**
 __________________________________________
