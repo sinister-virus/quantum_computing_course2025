@@ -14,6 +14,7 @@ Please note that only **registered participants** will be considered for evaluat
 
 ------------------------------------------------------------
 ## Course FAQ [Link](http://bit.ly/4lZrLqA)
+
 --------------------------------------------------------------
 # Joining Links:
 
