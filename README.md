@@ -34,12 +34,14 @@ Please note that only **registered participants** will be considered for evaluat
 
 </summary>
 
-### *Week Four :: Day 1 :: 24th May 2025 :: Saturday*
+### *Week Four :: Day 2 :: 25th May 2025 :: Sunday*
 
 | Webinar Topic   | Technical sessions: Week-4 Day-2 One Month Course of Quantum Computing|
 | -------------: | :------------- |
 | Date and time: | Sunday, May 25, 2025, IST 10:00 AM    |
 | Recorded YouTube Link  |https://youtube.com/live/f4J0hw30SuE|
+
+### *Week Four :: Day 1 :: 24th May 2025 :: Saturday*
 
 | Webinar Topic   | Technical sessions: Week-4 Day-1 One Month Course of Quantum Computing|
 | -------------: | :------------- |
