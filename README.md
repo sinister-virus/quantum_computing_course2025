@@ -21,78 +21,10 @@ Please note that only **registered participants** will be considered for evaluat
 ### Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/kknhjrqfdsrephnvyeoew4jt/) . This is the only official discussion forum platform.
 ### Access to [Qniverse platform](https://qniverse.in/) can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/). It might take 3-4 working days to enable your account.
 ### Access to [QSim indigenous simulator](https://qctoolkit.in/qsim-get-access/)  can be achieved by sending request email on qcworkbench@cdac.in
------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------
-# Recorded Lectures -- 
-
-<Details>
- 
- <summary>
-
-### PlayList [Link](https://www.youtube.com/playlist?list=PLt_nrfusQeEc-5tBqiQkmt70Aeu_zNiNT) 
-
-</summary>
-
-### *Week Four :: Day 2 :: 25th May 2025 :: Sunday*
-
-| Webinar Topic   | Technical sessions: Week-4 Day-2 One Month Course of Quantum Computing|
-| -------------: | :------------- |
-| Date and time: | Sunday, May 25, 2025, IST 10:00 AM    |
-| Recorded YouTube Link  |https://youtube.com/live/f4J0hw30SuE|
-
-### *Week Four :: Day 1 :: 24th May 2025 :: Saturday*
-
-| Webinar Topic   | Technical sessions: Week-4 Day-1 One Month Course of Quantum Computing|
-| -------------: | :------------- |
-| Date and time: | Saturday, 24 May, 2025, IST 10:00 AM  |
-| Recorded YouTube Link  |https://youtube.com/live/6GQySESfbFY|
-
-### *Week Three :: Day 2 :: 18th May 2025 :: Sunday*
-
-| Webinar Topic   | Technical sessions: Week-3 Day-2 One Month Course of Quantum Computing|
-| -------------: | :------------- |
-| Date and time: | Saturday, May 10, 2025, IST 10:00 AM - IST 13:00   |
-| Recorded YouTube Link  |https://youtube.com/live/RW9ef4P-QRI|
-
-### *Week Three :: Day 1 :: 17th May 2025 :: Saturday*
-
-| Webinar Topic   | Technical sessions: Week-3 Day-1 One Month Course of Quantum Computing|
-| -------------: | :------------- |
-| Date and time: | Saturday, May 10, 2025, IST 10:00 AM - IST 13:00   |
-| Recorded YouTube Link  |https://youtube.com/live/Nt94wy3T_5s |
-
-### *Week Two :: Day 2 :: 11th May 2025 :: Sunday*
-
-| Webinar Topic   | Technical sessions: Week-2 Day-2 One Month Course of Quantum Computing|
-| -------------: | :------------- |
-| Date and time: | Sunday, May 11, 2025, IST 10:00 AM  |
-| Recorded YouTube Link  |https://youtube.com/live/kG5Lq5khWn4 |
-
-### *Week Two :: Day 1 :: 10th May 2025 :: Saturday* 
-
-| Webinar Topic   | Technical sessions: Week-2 Day-1 One Month Course of Quantum Computing|
-| -------------: | :------------- |
-| Date and time: | Saturday, May 10, 2025, IST 10:00 AM - IST 13:00   |
-| Recorded YouTube Link  |https://youtube.com/live/MCOyY4O7Z0c |
-
-### *Week One :: Day 2 :: 4th May 2025* 
-
-| Webinar Topic   | Technical sessions: Week-1 Day-2 :: 4th May 2025:: One Month Quantum Computing Course |
-| -------------: | :------------- |
-| Date and time: | Sunday, May 4, 2025 , IST 10:00 AM |
-| Recorded YouTube Link  |https://www.youtube.com/live/tNcD6hJmQNA    |
-
-### *Week One :: Day 1 :: 3rd May 2025* 
- 
-| Webinar Topic   | Inauguration Ceremony followed by Technical sessions. Week 1-Day-1 :: 3 May :: One Month Course on Quantum Computing|
-| -------------: | :------------- |
-| Date and time: | Saturday, 3rd May 2025, IST 10:00 AM - IST 13:00 |
-|Recorded YouTube Link  |https://www.youtube.com/live/GLAE1HaoelA  |
-
-</Details>
-
-# May 2023 One Month course on Quantum Computing [GitHub Repository](https://github.com/gitkarma/quantum_computing_course2023) 
+## Recorded Lectures of  One Month course on Quantum Computing May 2025 - PlayList [Link](https://www.youtube.com/playlist?list=PLt_nrfusQeEc-5tBqiQkmt70Aeu_zNiNT) 
+### Recorded Letures of One Month course on Quantum Computing May 2023 - [GitHub Repository](https://github.com/gitkarma/quantum_computing_course2023) 
 
 ## **Course Details**
 <Details>
