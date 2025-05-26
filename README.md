@@ -93,7 +93,6 @@ Please note that only **registered participants** will be considered for evaluat
 </Details>
 
 # May 2023 One Month course on Quantum Computing -- [GitHub Repository](https://github.com/gitkarma/quantum_computing_course2023) 
-__________________________________________
 ## **Course Details**
 
 <Details>
