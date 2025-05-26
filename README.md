@@ -30,7 +30,7 @@ Please note that only **registered participants** will be considered for evaluat
  
  <summary>
 
-### PlayList Link [ PlayList Link](https://www.youtube.com/playlist?list=PLt_nrfusQeEc-5tBqiQkmt70Aeu_zNiNT) 
+### PlayList [Link](https://www.youtube.com/playlist?list=PLt_nrfusQeEc-5tBqiQkmt70Aeu_zNiNT) 
 
 </summary>
 
