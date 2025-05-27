@@ -3,27 +3,30 @@
 
 Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of Advanced Computing](https://www.cdac.in/) With the support of Ministry of Electronics and Information Technology (MeitY), Government of India.
 
-------------------------------------------------------------
+
+
+# Quiz 4 & Feedback Form:
+#### -  The [Quiz 4](https://forms.gle/fRVspMgmFVSQBAu67) will be open for only REGISTERED participants. It is scheduled for **Sunday, 1st June 2025, between 08:00 PM and 09:00 PM IST**.
+
+#### -  To help us enhance future courses, we would be grateful if you could take a few moments to fill out our [FEEDBACK](https://forms.gle/4Lw5Qujsjdf9GiTM6) form. Your contributions will be vital as we strive to improve.
+
+
+
+## Course FAQ [Link](http://bit.ly/4lZrLqA)
+
 
 ## Quiz 1, 2 & 3: 
 Answer key is updated in this Repository in Quiz folder in this Repository.
-# Quiz 4:
-The [Quiz 4](https://forms.gle/fRVspMgmFVSQBAu67) will be open for only REGISTERED participants. It is scheduled for **Sunday, 1st June 2025, between 08:00 PM and 09:00 PM IST**.
 
-Please note that only **registered participants** will be considered for evaluation. While attempting the quiz, make sure to use the Gmail ID you used during registration.
+## Joining Links:
 
-------------------------------------------------------------
-## Course FAQ [Link](http://bit.ly/4lZrLqA)
+- Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/kknhjrqfdsrephnvyeoew4jt/) . This is the only official discussion forum platform.
+- Access to [Qniverse platform](https://qniverse.in/) can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/).
+- Access to [QSim indigenous simulator](https://qctoolkit.in/qsim-get-access/)  can be achieved by sending request email on qcworkbench@cdac.in
 
---------------------------------------------------------------
-# Joining Links:
+------------------------------------------
 
-### Zulip QCTraining ChatRoom [Invitation Link](https://qc-training-cdac.zulipchat.com/join/kknhjrqfdsrephnvyeoew4jt/) . This is the only official discussion forum platform.
-### Access to [Qniverse platform](https://qniverse.in/) can be requested from following link [Request Link](https://qniverse.in/getting-access-qniverse/). It might take 3-4 working days to enable your account.
-### Access to [QSim indigenous simulator](https://qctoolkit.in/qsim-get-access/)  can be achieved by sending request email on qcworkbench@cdac.in
-
-------------------------------------------------------------------------------------------------
-## Recorded Lectures of  One Month course on Quantum Computing May 2025 - PlayList [Link](https://www.youtube.com/playlist?list=PLt_nrfusQeEc-5tBqiQkmt70Aeu_zNiNT) 
+### Recorded Lectures of  One Month course on Quantum Computing May 2025 - [Playlist](https://www.youtube.com/playlist?list=PLt_nrfusQeEc-5tBqiQkmt70Aeu_zNiNT) 
 ### Recorded Letures of One Month course on Quantum Computing May 2023 - [GitHub Repository](https://github.com/gitkarma/quantum_computing_course2023) 
 
 ## **Course Details**
@@ -86,11 +89,11 @@ Online (on Weekends only)
 
 </Details>
 
----------------------------
+
 
 ## Prerequisites ::
 Basic Knowledge of Python Programming, Linear Algebra and Physics
 
----------------------------
+
 
 ## Contact Email Id: qctraining@cdac.in
