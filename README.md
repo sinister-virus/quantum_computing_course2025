@@ -1,22 +1,11 @@
 
 # Quantum Computing Course 2025
-
 Organized by [IIT Roorkee](https://www.iitr.ac.in/) & [Centre for Development of Advanced Computing](https://www.cdac.in/) With the support of Ministry of Electronics and Information Technology (MeitY), Government of India.
 
-
-
-# Quiz 4 & Feedback Form:
-#### -  The [Quiz 4](https://forms.gle/fRVspMgmFVSQBAu67) will be open for only REGISTERED participants. It is scheduled for **Sunday, 1st June 2025, between 08:00 PM and 09:00 PM IST**.
-
-#### -  To help us enhance future courses, we would be grateful if you could take a few moments to fill out our [FEEDBACK](https://forms.gle/4Lw5Qujsjdf9GiTM6) form. Your contributions will be vital as we strive to improve.
-
-
+## Feedback Form:
+####  To help us enhance future courses, we would be grateful if you could take a few moments to fill out our [FEEDBACK](https://forms.gle/4Lw5Qujsjdf9GiTM6) form. Your contributions will be vital as we strive to improve.
 
 ## Course FAQ [Link](http://bit.ly/4lZrLqA)
-
-
-## Quiz 1, 2 & 3: 
-Answer key is updated in this Repository in Quiz folder in this Repository.
 
 ## Joining Links:
 
@@ -27,6 +16,7 @@ Answer key is updated in this Repository in Quiz folder in this Repository.
 ------------------------------------------
 
 ### Recorded Lectures of  One Month course on Quantum Computing May 2025 - [Playlist](https://www.youtube.com/playlist?list=PLt_nrfusQeEc-5tBqiQkmt70Aeu_zNiNT) 
+
 ### Recorded Letures of One Month course on Quantum Computing May 2023 - [GitHub Repository](https://github.com/gitkarma/quantum_computing_course2023) 
 
 ## **Course Details**
@@ -88,8 +78,6 @@ Online (on Weekends only)
 • Quantum Machine Learning
 
 </Details>
-
-
 
 ## Prerequisites ::
 Basic Knowledge of Python Programming, Linear Algebra and Physics
